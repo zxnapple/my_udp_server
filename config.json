@@ -1,0 +1,7 @@
+{
+    "listen_threads": 4,
+    "work_threads": 4,
+    "buffer_size": 1048576,
+    "server_ip": "0.0.0.0",
+    "port": 8888
+}
